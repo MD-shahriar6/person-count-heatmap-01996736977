@@ -32,3 +32,5 @@ ANNOT_W, ANNOT_H = 1678, 949<br>
 ![image alt](https://github.com/MD-shahriar6/person-count-heatmap-01996736977/blob/e418b807eb7cc789eaa6a7d3e405131fac32cfca/Screenshot%202026-05-08%20210704.png)
 
 # SS of heatmap <br>
+
+![image alt](https://github.com/MD-shahriar6/person-count-heatmap-01996736977/blob/840afc093aa68c5112e5538bee3ec4e4c9837ef0/Screenshot%202026-05-08%20210755.png)
