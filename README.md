@@ -29,5 +29,6 @@ ANNOT_LINE_OUT_START = (6, 846)<br>
 ANNOT_LINE_OUT_END = (1665, 851)<br>
 ANNOT_W, ANNOT_H = 1678, 949<br>
 # SS of counting person<br>
+![image alt](https://github.com/MD-shahriar6/person-count-heatmap-01996736977/blob/e418b807eb7cc789eaa6a7d3e405131fac32cfca/Screenshot%202026-05-08%20210704.png)
 
 # SS of heatmap <br>
